@@ -13,14 +13,14 @@ I build projects that start with a defensible baseline, expose uncertainty, and 
 
 ## Portfolio Systems
 
-| Project | What it proves | Dataset and output |
-| --- | --- | --- |
-| [`temporal-stance-lab`](https://github.com/CharishmaReddyYerra/temporal-stance-lab) | Temporal NLP evaluation, label-noise awareness, bootstrap confidence intervals | SemEval stance data, static report |
-| [`bayesian-risk-engine`](https://github.com/CharishmaReddyYerra/bayesian-risk-engine) | Risk modeling with calibration, Brier score, and threshold audits | UCI Cleveland heart disease, static report |
-| [`causal-ml-policy-simulator`](https://github.com/CharishmaReddyYerra/causal-ml-policy-simulator) | Treatment-effect estimation beyond correlation | Lalonde job training data, policy report |
-| [`cuda-linear-algebra-lab`](https://github.com/CharishmaReddyYerra/cuda-linear-algebra-lab) | Numerical linear algebra, matrix inversion, benchmark design | UCI Wine Quality, CPU benchmark plus CUDA path |
-| [`hierarchical-forecasting-lab`](https://github.com/CharishmaReddyYerra/hierarchical-forecasting-lab) | Forecast reconciliation and interval coverage | Australian retail turnover, forecast report |
-| [`sql-ml-decision-dashboard`](https://github.com/CharishmaReddyYerra/sql-ml-decision-dashboard) | SQL-to-ML product pipeline with cohort and threshold analysis | Titanic SQLite pipeline, decision report |
+| Project | What it proves | Dataset | Live report |
+| --- | --- | --- | --- |
+| [`temporal-stance-lab`](https://github.com/CharishmaReddyYerra/temporal-stance-lab) | Temporal NLP evaluation, label-noise awareness, bootstrap confidence intervals | SemEval stance data | [Report](https://charishmareddyyerra.github.io/temporal-stance-lab/) |
+| [`bayesian-risk-engine`](https://github.com/CharishmaReddyYerra/bayesian-risk-engine) | Risk modeling with calibration, Brier score, and threshold audits | UCI Cleveland heart disease | [Report](https://charishmareddyyerra.github.io/bayesian-risk-engine/) |
+| [`causal-ml-policy-simulator`](https://github.com/CharishmaReddyYerra/causal-ml-policy-simulator) | Treatment-effect estimation beyond correlation | Lalonde job training data | [Report](https://charishmareddyyerra.github.io/causal-ml-policy-simulator/) |
+| [`cuda-linear-algebra-lab`](https://github.com/CharishmaReddyYerra/cuda-linear-algebra-lab) | Numerical linear algebra, matrix inversion, benchmark design | UCI Wine Quality | [Report](https://charishmareddyyerra.github.io/cuda-linear-algebra-lab/) |
+| [`hierarchical-forecasting-lab`](https://github.com/CharishmaReddyYerra/hierarchical-forecasting-lab) | Forecast reconciliation and interval coverage | Australian retail turnover | [Report](https://charishmareddyyerra.github.io/hierarchical-forecasting-lab/) |
+| [`sql-ml-decision-dashboard`](https://github.com/CharishmaReddyYerra/sql-ml-decision-dashboard) | SQL-to-ML product pipeline with cohort and threshold analysis | Titanic | [Report](https://charishmareddyyerra.github.io/sql-ml-decision-dashboard/) |
 
 ## Current Research Direction
 
@@ -44,4 +44,3 @@ I try not to stop at one accuracy number. I look for calibration curves, confide
 ---
 
 Profile thesis: statistical thinking first, modern ML second, reproducibility always.
-
